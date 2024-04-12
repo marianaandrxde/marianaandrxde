@@ -1,6 +1,6 @@
 <div align="center">
   
-### Hello, my name is Mariana 👋
+### Hello, my name is Mariana Andrade 👋
 
 </div>
 
