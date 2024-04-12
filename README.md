@@ -1,4 +1,8 @@
+<div align="center">
+  
 ### Hello, my name is Mariana 👋
+
+</div>
 
 <div align="center">
   
@@ -6,7 +10,11 @@
 
 </div>
 
+<div align="center">
+  
 ### Main skills
+
+</div>
 
 <div align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">&nbsp;
